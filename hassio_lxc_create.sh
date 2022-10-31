@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@jt-edwards 
-whiskerz007
-/
-proxmox_hassio_lxc
-Public
-Code
-Issues
-23
-Pull requests
-2
-Actions
-Projects
-Security
-Insights
-proxmox_hassio_lxc/create_container.sh
-@whiskerz007
-whiskerz007 Use script to create LXC
-Latest commit ea671eb on 1 Jan 2021
- History
- 1 contributor
-228 lines (199 sloc)  7.68 KB
-
 #!/usr/bin/env bash
 
 # Setup script environment
